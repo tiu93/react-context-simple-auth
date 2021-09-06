@@ -28,7 +28,7 @@ const Header = () => {
           noWrap
           className={classes.toolbarTitle}
         >
-          react-simple-auth
+          react-context-simple-auth
         </Typography>
         {location.pathname !== '/' && (
           <>
