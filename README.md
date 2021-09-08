@@ -17,7 +17,7 @@ App based on `create-react-app`
 Use username `test` and password `test1` for test
 
 # Demo
-Wath the [Demo](https://codesandbox.io/s/react-context-simple-auth-wujlc?file=/src/index.js) on sanbox
+Watch the [Demo](https://codesandbox.io/s/react-context-simple-auth-wujlc?file=/src/index.js) on sanbox
 
 # Available Scripts
 In the project directory, you can run:
